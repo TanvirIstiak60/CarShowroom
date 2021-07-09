@@ -17,4 +17,4 @@ This repo contains the implementation of a vehicle showroom management system.
 The source codes are available at the "CarShowroom" folder.
 
 ## Report
-The report of the project is available as "Report on Vehicle Management System.pdf"
+The report of the project is available as "Report on Vehicle Showroom Management System.pdf"
